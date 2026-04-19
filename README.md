@@ -1,5 +1,12 @@
 # Entropy-Gated Edge Recovery Score
 
+
+<!-- HERO_ANIMATION:BEGIN -->
+![Entropy-gated edge recovery score](images/entropy_gated_edge_recovery.gif)
+
+_Hero animation: **Entropy-gated edge recovery score**. [Download high-resolution MP4](images/entropy_gated_edge_recovery.mp4)._
+<!-- HERO_ANIMATION:END -->
+
 **ID:** `eq-entropy-gated-edge-recovery-score`  
 **Tier:** derived  
 **Score:** 87  
